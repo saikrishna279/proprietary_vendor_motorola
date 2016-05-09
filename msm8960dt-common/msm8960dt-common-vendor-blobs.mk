@@ -23,6 +23,14 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8960dt-common/proprietary/etc/firmware/aonvr2.bin:system/etc/firmware/aonvr2.bin \
     vendor/motorola/msm8960dt-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/motorola/msm8960dt-common/proprietary/lib/hw/camera.vendor.msm8960.so:system/lib/hw/camera.vendor.msm8960.so \
+    vendor/motorola/msm8960-common/proprietary/lib/libaudiopolicyenginedefault.so:system/lib/libaudiopolicyenginedefault.s$
+    vendor/motorola/msm8960-common/proprietary/lib/libaudiopolicymanager.so:system/lib/libaudiopolicymanager.so \
+    vendor/motorola/msm8960-common/proprietary/lib/libaudiopolicymanagerdefault.so:system/lib/libaudiopolicymanagerdefault$
+    vendor/motorola/msm8960-common/proprietary/lib/libaudiopolicyservice.so:system/lib/libaudiopolicyservice.so \
+    vendor/motorola/msm8960-common/proprietary/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.default.so \
+    vendor/motorola/msm8960-common/proprietary/lib/hw/audio.primary.msm8960.so:system/lib/hw/audio.primary.msm8960.so \
+    vendor/motorola/msm8960-common/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
+    vendor/motorola/msm8960-common/proprietary/lib/hw/audio.primary.msm8960.so:system/lib/hw/audio.primary.msm8960.so \
     vendor/motorola/msm8960dt-common/proprietary/lib/libadsprpc.so:system/lib/libadsprpc.so \
     vendor/motorola/msm8960dt-common/proprietary/lib/libAisAdapter.so:system/lib/libAisAdapter.so \
     vendor/motorola/msm8960dt-common/proprietary/lib/libAlAisLib.so:system/lib/libAlAisLib.so \
