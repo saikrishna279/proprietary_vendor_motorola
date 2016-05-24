@@ -30,7 +30,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8960dt-common/proprietary/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.default.so \
     vendor/motorola/msm8960dt-common/proprietary/lib/hw/audio.primary.msm8960.so:system/lib/hw/audio.primary.msm8960.so \
     vendor/motorola/msm8960dt-common/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
-    vendor/motorola/msm8960dt-common/proprietary/lib/hw/audio.primary.msm8960.so:system/lib/hw/audio.primary.msm8960.so \
     vendor/motorola/msm8960dt-common/proprietary/lib/libadsprpc.so:system/lib/libadsprpc.so \
     vendor/motorola/msm8960dt-common/proprietary/lib/libAisAdapter.so:system/lib/libAisAdapter.so \
     vendor/motorola/msm8960dt-common/proprietary/lib/libAlAisLib.so:system/lib/libAlAisLib.so \
